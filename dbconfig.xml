@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbconfig>
+    <connect host = "127.0.0.1" port = "3306" user = "root" passwd = "">
+        <db dbname = "gulong_zjqu_qq" 		charset = "utf8"/>
+        <db dbname = "gulong_xli_qq"        charset = "utf8"/>
+    </connect>
+</dbconfig>

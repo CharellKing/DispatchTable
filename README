@@ -1,0 +1,4 @@
+向dbconfig.xml中配置的数据库中，分别执行当前目录下所有.sql文件里面的所有sql语句
+程序执行：
+python DispatchTable
+(d-向各个数据库中派发表， r - 删除当前目录中的所有sql语句, e - 退出程序)
